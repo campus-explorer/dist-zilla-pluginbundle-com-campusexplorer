@@ -1,0 +1,45 @@
+# NAME
+
+Dist::Zilla::PluginBundle::Com::CampusExplorer - Dist::Zilla plugin bundle for `campusexplorer.com`
+
+# VERSION
+
+This document describes version 0.001 of Dist::Zilla::PluginBundle::Com::CampusExplorer - released May 13, 2013 as part of Dist-Zilla-PluginBundle-Com-CampusExplorer.
+
+# SYNOPSIS
+
+    # in your dist.ini:
+    [@Com::CampusExplorer]
+
+# DESCRIPTION
+
+This is a [Dist::Zilla](http://search.cpan.org/perldoc?Dist::Zilla) author bundle for
+[Campus Explorer](http://campusexplorer.com).  It's intended to help maintain
+consistency across our open sourced projects.
+
+# SOURCE
+
+The development version is on github at [http://github.com/campus-explorer/dist-zilla-pluginbundle-com-campusexplorer](http://github.com/campus-explorer/dist-zilla-pluginbundle-com-campusexplorer)
+and may be cloned from [git://github.com/campus-explorer/dist-zilla-pluginbundle-com-campusexplorer.git](git://github.com/campus-explorer/dist-zilla-pluginbundle-com-campusexplorer.git)
+
+# BUGS
+
+Please report any bugs or feature requests on the bugtracker website
+https://github.com/campus-explorer/dist-zilla-pluginbundle-com-campusexplor
+er/issues
+
+When submitting a bug or request, please include a test-file or a
+patch to an existing test-file that illustrates the bug or desired
+feature.
+
+# AUTHOR
+
+Chris Weyl <cweyl@alumni.drew.edu>
+
+# COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2013 by Campus Explorer, Inc <http://campusexplorer.com>.
+
+This is free software, licensed under:
+
+    The GNU Lesser General Public License, Version 2.1, February 1999
